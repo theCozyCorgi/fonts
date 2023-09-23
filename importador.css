@@ -151,9 +151,108 @@
     url('https://thecozycorgi.github.io/fonts/Nessyn Sentry.ttf') format('ttf');
 }
 
-
 @font-face {
-  font-family: 'Northy Fifty Regular 2';
-  src: url('https://thecozycorgi.github.io/fonts/Northy Fifty Regular 2.otf') format('opentype'),
+  font-family: 'omany';
+  src: url('https://thecozycorgi.github.io/fonts/OMANY.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/OMANY.ttf') format('ttf');
 }
 
+@font-face {
+  font-family: 'Orchestra Regular';
+  src: url('https://thecozycorgi.github.io/fonts/Orchestra Regular.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Orchestra Regular.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Packy Great';
+  src: url('https://thecozycorgi.github.io/fonts/PackyGreat.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/PackyGreat.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Qebil';
+  src: url('https://thecozycorgi.github.io/fonts/QEBIL.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Racking';
+  src: url('https://thecozycorgi.github.io/fonts/Racking.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Racking.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Reduced Clarity';
+  src: url('https://thecozycorgi.github.io/fonts/ReducedClarity.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/ReducedClarity.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Riqas';
+  src: url('https://thecozycorgi.github.io/fonts/Riqas.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Riqas.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Rofane Italic';
+  src: url('https://thecozycorgi.github.io/fonts/Rofane Italic.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Rofane Italic.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Rofane';
+  src: url('https://thecozycorgi.github.io/fonts/Rofane.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Rofane.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Soul Ozees';
+  src: url('https://thecozycorgi.github.io/fonts/SOUL OZEES.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/SOUL OZEES.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Stand For Honour';
+  src: url('https://thecozycorgi.github.io/fonts/Stand For Honour.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Stand For Honour.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'fuente';
+  src: url('https://thecozycorgi.github.io/fonts/link.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/link.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Sweet Brownies';
+  src: url('https://thecozycorgi.github.io/fonts/Sweet Brownies.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/SweetBrownies.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Swily Bright';
+  src: url('https://thecozycorgi.github.io/fonts/SwilyBright-Regular.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/SwilyBright-Regular.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Talks';
+  src: url('https://thecozycorgi.github.io/fonts/Talks.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Talks.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Treifany Bold';
+  src: url('https://thecozycorgi.github.io/fonts/Treifany Bold.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Treifany Bold.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Treifany';
+  src: url('https://thecozycorgi.github.io/fonts/Treifany.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Vatteavillany';
+  src: url('https://thecozycorgi.github.io/fonts/Vatteavillany.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Vatteavillany.ttf') format('ttf');
+}
