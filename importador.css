@@ -217,9 +217,9 @@
 }
 
 @font-face {
-  font-family: 'fuente';
-  src: url('https://thecozycorgi.github.io/fonts/link.otf') format('opentype'),
-    url('https://thecozycorgi.github.io/fonts/link.ttf') format('ttf');
+  font-family: 'ilyas';
+  src: url('https://thecozycorgi.github.io/fonts/ilyas.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/ilyas.woff') format('woff');
 }
 
 @font-face {
