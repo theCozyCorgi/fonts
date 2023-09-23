@@ -1,0 +1,159 @@
+/* IMPORTADOR DE FUENTES  */
+@font-face {
+  font-family: 'amore';
+  src: url('https://thecozycorgi.github.io/fonts/Amore.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Amore.ttf') format('ttf'),
+}
+
+
+@font-face {
+  font-family: 'bagola';
+  src: url('https://thecozycorgi.github.io/fonts/Bagola.woff2') format('woff2'),
+    url('https://thecozycorgi.github.io/fonts/Bagola.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Bagola.woff') format('woff'),
+    url('https://thecozycorgi.github.io/fonts/Bagola.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'bilend';
+  src: url('https://thecozycorgi.github.io/fonts/Bilend.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Bilend.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'bonjour';
+  src: url('https://thecozycorgi.github.io/fonts/Bonjour.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Bonjour.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'casley';
+  src: url('https://thecozycorgi.github.io/fonts/Casley.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Casley.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'fashion';
+  src: url('https://thecozycorgi.github.io/fonts/Fashion.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Fashion.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'fox wizard';
+  src: url('https://thecozycorgi.github.io/fonts/Fox Wizard.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Fox Wizard.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'goldine regular';
+  src: url('https://thecozycorgi.github.io/fonts/Goldine Regular.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'Goldine';
+  src: url('https://thecozycorgi.github.io/fonts/Goldine.otf') format('opentype'),
+}
+
+
+@font-face {
+  font-family: 'Grafing';
+  src: url('https://thecozycorgi.github.io/fonts/Grafing.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Grafing.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'Grinjake';
+  src: url('https://thecozycorgi.github.io/fonts/Grinjake.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Grinjake.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'Groth';
+  src: url('https://thecozycorgi.github.io/fonts/Groth.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Groth.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'Havana';
+  src: url('https://thecozycorgi.github.io/fonts/Havana.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Havana.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'Humble';
+  src: url('https://thecozycorgi.github.io/fonts/Humble.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Humble.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'Kinfolk';
+  src: url('https://thecozycorgi.github.io/fonts/Kinfolk.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Kinfolk.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'Lavone';
+  src: url('https://thecozycorgi.github.io/fonts/Lavone.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'Marline';
+  src: url('https://thecozycorgi.github.io/fonts/Marline.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Marline.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'Megrath';
+  src: url('https://thecozycorgi.github.io/fonts/Megrath.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Megrath.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'Mockads';
+  src: url('https://thecozycorgi.github.io/fonts/Mockads.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Mockads.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'More Cream';
+  src: url('https://thecozycorgi.github.io/fonts/MoreCream.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/MoreCream.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'Morgan';
+  src: url('https://thecozycorgi.github.io/fonts/Morgan.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Morgan.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'Nessyn Sentry';
+  src: url('https://thecozycorgi.github.io/fonts/Nessyn Sentry.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Nessyn Sentry.ttf') format('ttf');
+}
+
+
+@font-face {
+  font-family: 'Northy Fifty Regular 2';
+  src: url('https://thecozycorgi.github.io/fonts/Northy Fifty Regular 2.otf') format('opentype'),
+}
+
