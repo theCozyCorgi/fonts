@@ -256,3 +256,44 @@
   src: url('https://thecozycorgi.github.io/fonts/Vatteavillany.otf') format('opentype'),
     url('https://thecozycorgi.github.io/fonts/Vatteavillany.ttf') format('ttf');
 }
+
+@font-face {
+  font-family: 'Aesthetic';
+  src: url('https://thecozycorgi.github.io/fonts/Aesthetic-Regular.woff2') format('woff2'),
+    url('https://thecozycorgi.github.io/fonts/Aesthetic-Regular.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Aesthetic-Regular.woff') format('woff'),
+    url('https://thecozycorgi.github.io/fonts/Aesthetic-Regular.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Arsenica';
+  src: url('https://thecozycorgi.github.io/fonts/ArsenicaTrial-Regular.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Marllgon';
+  src: url('https://thecozycorgi.github.io/fonts/Marllgon.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Quella';
+  src: url('https://thecozycorgi.github.io/fonts/Quella.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Stanley';
+  src: url('https://thecozycorgi.github.io/fonts/Stanley.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Vallery Qylmor';
+  src: url('https://thecozycorgi.github.io/fonts/Vallery Qylmor.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Wonder';
+  src: url('https://thecozycorgi.github.io/fonts/WONDER SEASON.woff2') format('woff2'),
+    url('https://thecozycorgi.github.io/fonts/WONDER SEASON.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/WONDER SEASON.woff') format('woff'),
+    url('https://thecozycorgi.github.io/fonts/WONDER SEASON.ttf') format('ttf');
+}
