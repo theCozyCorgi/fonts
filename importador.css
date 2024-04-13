@@ -1,5 +1,17 @@
 /* IMPORTADOR DE FUENTES  */
 @font-face {
+  font-family: 'elmonza';
+  src: url('https://thecozycorgi.github.io/fonts/elmonza.otf') format('opentype'),
+}
+
+
+@font-face {
+  font-family: 'Volianchy';
+  src: url('https://thecozycorgi.github.io/fonts/Volianchy.otf') format('opentype'),
+}
+
+
+@font-face {
   font-family: 'amore';
   src: url('https://thecozycorgi.github.io/fonts/Amore.otf') format('opentype'),
     url('https://thecozycorgi.github.io/fonts/Amore.ttf') format('ttf'),
