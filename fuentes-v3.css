@@ -1,0 +1,193 @@
+/* importado de fuentes versión tres  */
+
+@font-face {
+  font-family: 'Brightwall';
+  src: url('https://thecozycorgi.github.io/fonts/Brightwall.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Gellatio Regular';
+  src: url('https://thecozycorgi.github.io/fonts/Gellatio Regular.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Wonderful Branding';
+  src: url('https://thecozycorgi.github.io/fonts/Wonderful Branding.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Feeling Passionate';
+  src: url('https://thecozycorgi.github.io/fonts/Feeling Passionate.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Breathing';
+  src: url('https://thecozycorgi.github.io/fonts/Breathing.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Sisterhood';
+  src: url('https://thecozycorgi.github.io/fonts/Sisterhood.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Angella White';
+  src: url('https://thecozycorgi.github.io/fonts/Angella White.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Bone';
+  src: url('https://thecozycorgi.github.io/fonts/Bone.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Black Bones';
+  src: url('https://thecozycorgi.github.io/fonts/Black Bones.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Butlove';
+  src: url('https://thecozycorgi.github.io/fonts/Butlove.woff') format('woff'),
+    url('https://thecozycorgi.github.io/fonts/Butlove.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Bellysta';
+  src: url('https://thecozycorgi.github.io/fonts/Bellysta.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Elista';
+  src: url('https://thecozycorgi.github.io/fonts/Elista.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Brilliant';
+  src: url('https://thecozycorgi.github.io/fonts/Brilliant.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Brilliant Signature';
+  src: url('https://thecozycorgi.github.io/fonts/Brilliant Signature.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Gistesy';
+  src: url('https://thecozycorgi.github.io/fonts/Gistesy.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Blastine';
+  src: url('https://thecozycorgi.github.io/fonts/Blastine.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'MonsteraGarden';
+  src: url('https://thecozycorgi.github.io/fonts/MonsteraGarden.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Dimelike';
+  src: url('https://thecozycorgi.github.io/fonts/Dimelike.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Obelisk Stone';
+  src: url('https://thecozycorgi.github.io/fonts/Obelisk Stone.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Holy Saghne';
+  src: url('https://thecozycorgi.github.io/fonts/Holy Saghne.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Kishplay';
+  src: url('https://thecozycorgi.github.io/fonts/Kishplay.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Kishplay.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Secretsoul';
+  src: url('https://thecozycorgi.github.io/fonts/Secretsoul.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Mately Bold';
+  src: url('https://thecozycorgi.github.io/fonts/Mately Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'The Sugarploom';
+  src: url('https://thecozycorgi.github.io/fonts/The Sugarploom.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Home Kitchen Sans Bold';
+  src: url('https://thecozycorgi.github.io/fonts/Home Kitchen Sans Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Home Kitchen Sans Reguler';
+  src: url('https://thecozycorgi.github.io/fonts/Home Kitchen Sans Reguler.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Home Kitchen Sans Thin';
+  src: url('https://thecozycorgi.github.io/fonts/Home Kitchen Sans Thin.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Strawbale';
+  src: url('https://thecozycorgi.github.io/fonts/Strawbale.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Strawbale.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Fitriany';
+  src: url('https://thecozycorgi.github.io/fonts/Fitriany.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Hamington';
+  src: url('https://thecozycorgi.github.io/fonts/Hamington.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BlowGlow Regular';
+  src: url('https://thecozycorgi.github.io/fonts/BlowGlow.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/BlowGlow Regular.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Fancy Glow';
+  src: url('https://thecozycorgi.github.io/fonts/Fancy Glow.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Mighty Origin';
+  src: url('https://thecozycorgi.github.io/fonts/Mighty Origin.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'gilda';
+  src: url('https://thecozycorgi.github.io/fonts/gilda.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Manday Regular';
+  src: url('https://thecozycorgi.github.io/fonts/Manday Regular.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Rogsant Crisp';
+  src: url('https://thecozycorgi.github.io/fonts/Rogsant Crisp.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Mexa-Regular';
+  src: url('https://thecozycorgi.github.io/fonts/Mexa-Regular.woff2') format('woff2'),
+    url('https://thecozycorgi.github.io/fonts/Mexa-Regular.otf') format('opentype'),
+    url('https://thecozycorgi.github.io/fonts/Mexa-Regular.woff') format('woff'),
+    url('https://thecozycorgi.github.io/fonts/Mexa-Regular.ttf') format('ttf');
+}
