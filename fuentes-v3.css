@@ -185,6 +185,41 @@
 }
 
 @font-face {
+  font-family: 'AHundredMiles';
+  src: url('https://thecozycorgi.github.io/fonts/AHundredMiles.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Banana Moonpie Free';
+  src: url('https://thecozycorgi.github.io/fonts/Banana Moonpie Free.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Jesyta';
+  src: url('https://thecozycorgi.github.io/fonts/Jesyta.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Mallcity';
+  src: url('https://thecozycorgi.github.io/fonts/Mallcity.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Northeast Oregon';
+  src: url('https://thecozycorgi.github.io/fonts/Northeast Oregon.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'violante';
+  src: url('https://thecozycorgi.github.io/fonts/violante.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Winter';
+  src: url('https://thecozycorgi.github.io/fonts/Winter.otf') format('opentype');
+}
+
+@font-face {
   font-family: 'Mexa-Regular';
   src: url('https://thecozycorgi.github.io/fonts/Mexa-Regular.woff2') format('woff2'),
     url('https://thecozycorgi.github.io/fonts/Mexa-Regular.otf') format('opentype'),
