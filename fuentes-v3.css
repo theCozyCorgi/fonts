@@ -226,3 +226,9 @@
     url('https://thecozycorgi.github.io/fonts/Mexa-Regular.woff') format('woff'),
     url('https://thecozycorgi.github.io/fonts/Mexa-Regular.ttf') format('ttf');
 }
+
+@font-face {
+  font-family: 'Stone Runes';
+  src: url('https://thecozycorgi.github.io/fonts/Stone Runes.otf') format('opentype');
+}
+
