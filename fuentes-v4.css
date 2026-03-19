@@ -1,0 +1,362 @@
+@font-face {
+  font-family: 'AHundredMiles';
+  src: url('https://thecozycorgi.github.io/fonts/AHundredMiles.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Banana Moonpie Free';
+  src: url('https://thecozycorgi.github.io/fonts/Banana Moonpie Free.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Bargemo';
+  src: url('https://thecozycorgi.github.io/fonts/Bargemo.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BasicBitch Bold';
+  src: url('https://thecozycorgi.github.io/fonts/BasicBitch_Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BasicBitch Regular';
+  src: url('https://thecozycorgi.github.io/fonts/BasicBitch_Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Bestlight';
+  src: url('https://thecozycorgi.github.io/fonts/bestlight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Bilgie';
+  src: url('https://thecozycorgi.github.io/fonts/bilgie.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'BlackAutumn Regular';
+  src: url('https://thecozycorgi.github.io/fonts/BlackAutumn-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Bordeahill';
+  src: url('https://thecozycorgi.github.io/fonts/Bordeahill.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Cabinest';
+  src: url('https://thecozycorgi.github.io/fonts/Cabinest.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Cangkem Regular';
+  src: url('https://thecozycorgi.github.io/fonts/Cangkem-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Chesalova Regular';
+  src: url('https://thecozycorgi.github.io/fonts/Chesalova-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'CleanFragile';
+  src: url('https://thecozycorgi.github.io/fonts/CleanFragile.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Clearstone';
+  src: url('https://thecozycorgi.github.io/fonts/Clearstone.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Enoway';
+  src: url('https://thecozycorgi.github.io/fonts/Enoway.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'FancyGlow';
+  src: url('https://thecozycorgi.github.io/fonts/FancyGlow.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Galery';
+  src: url('https://thecozycorgi.github.io/fonts/Galery.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Gallery';
+  src: url('https://thecozycorgi.github.io/fonts/gallery.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Giflika Regular';
+  src: url('https://thecozycorgi.github.io/fonts/Giflika-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Glirock Regular';
+  src: url('https://thecozycorgi.github.io/fonts/Glirock-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Goldbugs';
+  src: url('https://thecozycorgi.github.io/fonts/Goldbugs.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Goldiolus';
+  src: url('https://thecozycorgi.github.io/fonts/Goldiolus.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Hastegi';
+  src: url('https://thecozycorgi.github.io/fonts/hastegi.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Hasweny';
+  src: url('https://thecozycorgi.github.io/fonts/Hasweny.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Hermione';
+  src: url('https://thecozycorgi.github.io/fonts/hermione.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Honeymoon';
+  src: url('https://thecozycorgi.github.io/fonts/Honeymoon.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Jesyta';
+  src: url('https://thecozycorgi.github.io/fonts/Jesyta.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Kaithryn';
+  src: url('https://thecozycorgi.github.io/fonts/Kaithryn.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Kirome';
+  src: url('https://thecozycorgi.github.io/fonts/Kirome.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Mafins';
+  src: url('https://thecozycorgi.github.io/fonts/Mafins.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Mallcity';
+  src: url('https://thecozycorgi.github.io/fonts/Mallcity.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Markingmate';
+  src: url('https://thecozycorgi.github.io/fonts/markingmate.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'MEQANOR';
+  src: url('https://thecozycorgi.github.io/fonts/MEQANOR.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Milkshake';
+  src: url('https://thecozycorgi.github.io/fonts/Milkshake.otf') format('opentype'),
+       url('https://thecozycorgi.github.io/fonts/Milkshake.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'MilkyWalky Regular';
+  src: url('https://thecozycorgi.github.io/fonts/MilkyWalky-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Milven Regular';
+  src: url('https://thecozycorgi.github.io/fonts/Milven-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'MiracleWorld';
+  src: url('https://thecozycorgi.github.io/fonts/MiracleWorld.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Morina';
+  src: url('https://thecozycorgi.github.io/fonts/morina.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Morning Bright';
+  src: url('https://thecozycorgi.github.io/fonts/Morning Bright.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'NCLGasdrifo';
+  src: url('https://thecozycorgi.github.io/fonts/NCLGasdrifo.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Northeast Oregon';
+  src: url('https://thecozycorgi.github.io/fonts/Northeast Oregon.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Nymere';
+  src: url('https://thecozycorgi.github.io/fonts/Nymere.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Pathie';
+  src: url('https://thecozycorgi.github.io/fonts/Pathie.otf') format('opentype'),
+       url('https://thecozycorgi.github.io/fonts/Pathie.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Peachmountain';
+  src: url('https://thecozycorgi.github.io/fonts/peachmountain.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Pokelor';
+  src: url('https://thecozycorgi.github.io/fonts/pokelor.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Qitello';
+  src: url('https://thecozycorgi.github.io/fonts/qitello.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Quilge';
+  src: url('https://thecozycorgi.github.io/fonts/Quilge.otf') format('opentype'),
+       url('https://thecozycorgi.github.io/fonts/Quilge.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Quilge Italic';
+  src: url('https://thecozycorgi.github.io/fonts/Quilge Italic.otf') format('opentype'),
+       url('https://thecozycorgi.github.io/fonts/Quilge Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Raina';
+  src: url('https://thecozycorgi.github.io/fonts/Raina.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'RealMagic';
+  src: url('https://thecozycorgi.github.io/fonts/RealMagic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Resoft';
+  src: url('https://thecozycorgi.github.io/fonts/Resoft.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Restful Silent';
+  src: url('https://thecozycorgi.github.io/fonts/Restful-Silent.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Rottaries Regular';
+  src: url('https://thecozycorgi.github.io/fonts/Rottaries-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SafiraMarch';
+  src: url('https://thecozycorgi.github.io/fonts/SafiraMarch.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Sagite';
+  src: url('https://thecozycorgi.github.io/fonts/Sagite.otf') format('opentype'),
+       url('https://thecozycorgi.github.io/fonts/Sagite.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Sagite Italic';
+  src: url('https://thecozycorgi.github.io/fonts/Sagite Italic.otf') format('opentype'),
+       url('https://thecozycorgi.github.io/fonts/Sagite Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Salting';
+  src: url('https://thecozycorgi.github.io/fonts/Salting.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Shapingheart';
+  src: url('https://thecozycorgi.github.io/fonts/Shapingheart.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Showclick';
+  src: url('https://thecozycorgi.github.io/fonts/Showclick.otf') format('opentype'),
+       url('https://thecozycorgi.github.io/fonts/Showclick.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Smoothly';
+  src: url('https://thecozycorgi.github.io/fonts/smoothly.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'StackedStrong Regular';
+  src: url('https://thecozycorgi.github.io/fonts/StackedStrong-Regular.otf') format('opentype'),
+       url('https://thecozycorgi.github.io/fonts/StackedStrong-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Stancilo';
+  src: url('https://thecozycorgi.github.io/fonts/stancilo.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'StayingPassionate';
+  src: url('https://thecozycorgi.github.io/fonts/StayingPassionate.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Stories Grand';
+  src: url('https://thecozycorgi.github.io/fonts/Stories-Grand.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'SweetMoments';
+  src: url('https://thecozycorgi.github.io/fonts/SweetMoments.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'TheForest';
+  src: url('https://thecozycorgi.github.io/fonts/theforest.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Tropical Avenue';
+  src: url('https://thecozycorgi.github.io/fonts/Tropical Avenue.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Violante';
+  src: url('https://thecozycorgi.github.io/fonts/violante.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'WhiteSpace';
+  src: url('https://thecozycorgi.github.io/fonts/WhiteSpace.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Winter';
+  src: url('https://thecozycorgi.github.io/fonts/Winter.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Wisdom';
+  src: url('https://thecozycorgi.github.io/fonts/Wisdom.otf') format('opentype');
+}
